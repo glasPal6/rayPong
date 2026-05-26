@@ -1,8 +1,6 @@
 # rayPong
 
-<p align=center>
-    <img src="showcase.gif", alt="drawing", width="800">
-</p>
+![Showcase](showcase.gif)
 
 > [!Warning]
 > The purpose of this is to get a basic understanding of raylib. Lower your expectations.
