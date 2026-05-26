@@ -1,7 +1,7 @@
 # rayPong
 
 <p align=center>
-    <img src="gameplay.png", alt="drawing", width="600">
+    <img src="showcase.gif", alt="drawing", width="800">
 </p>
 
 > [!Warning]
